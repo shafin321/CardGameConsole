@@ -1,0 +1,13 @@
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\bin\Debug\netcoreapp3.1\CardGameConsole.exe
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\bin\Debug\netcoreapp3.1\CardGameConsole.deps.json
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\bin\Debug\netcoreapp3.1\CardGameConsole.runtimeconfig.json
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\bin\Debug\netcoreapp3.1\CardGameConsole.runtimeconfig.dev.json
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\bin\Debug\netcoreapp3.1\CardGameConsole.dll
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\bin\Debug\netcoreapp3.1\CardGameConsole.pdb
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\obj\Debug\netcoreapp3.1\CardGameConsole.csprojAssemblyReference.cache
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\obj\Debug\netcoreapp3.1\CardGameConsole.AssemblyInfoInputs.cache
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\obj\Debug\netcoreapp3.1\CardGameConsole.AssemblyInfo.cs
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\obj\Debug\netcoreapp3.1\CardGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\obj\Debug\netcoreapp3.1\CardGameConsole.dll
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\obj\Debug\netcoreapp3.1\CardGameConsole.pdb
+C:\Users\Shujaul\source\repos\CardGameConsole\CardGameConsole\obj\Debug\netcoreapp3.1\CardGameConsole.genruntimeconfig.cache
